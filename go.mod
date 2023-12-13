@@ -1,3 +1,3 @@
-module github.com/keithnoguchi/hello-go
+module github.com/keithnoguchi/hello
 
 go 1.20
